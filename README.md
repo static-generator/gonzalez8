@@ -17,6 +17,7 @@ Favorite Artists
 - Grentperez
 - Laufey
 - Rob Deniel
-  
-[Facebook](https://www.example.com)
+
+ Social Media Accounts
+[Facebook](https://www.facebook.com)
 [Instagram](https://www.instagram.com/deobombits)
